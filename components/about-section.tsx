@@ -65,10 +65,10 @@ export function AboutSection() {
               <div className="absolute -inset-4 rounded-lg bg-gradient-to-r from-primary via-secondary to-accent opacity-30 blur-lg"></div>
               <div className="relative h-[400px] w-full overflow-hidden rounded-lg md:h-[450px] lg:h-[500px]">
                 <Image
-                  src="/placeholder.svg?height=500&width=500"
+                  src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   width={500}
                   height={500}
-                  alt="About Us Image"
+                  alt="Our professional team"
                   className="object-cover"
                 />
               </div>

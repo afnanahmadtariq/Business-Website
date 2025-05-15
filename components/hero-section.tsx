@@ -48,10 +48,10 @@ export function HeroSection() {
               <div className="absolute -inset-1 rounded-lg bg-gradient-to-r from-secondary via-accent to-highlight opacity-70 blur-lg"></div>
               <div className="relative rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=550&width=550"
+                  src="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   width={550}
                   height={550}
-                  alt="Hero Image"
+                  alt="Business team collaboration"
                   className="rounded-lg object-cover"
                   priority
                 />
