@@ -16,25 +16,25 @@ export default function AboutPage() {
       name: "Jane Smith",
       role: "CEO & Founder",
       bio: "With over 15 years of industry experience, Jane leads our company with vision and expertise.",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       name: "John Davis",
       role: "Chief Technology Officer",
       bio: "John brings technical innovation and strategic thinking to our technology solutions.",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       name: "Sarah Johnson",
       role: "Marketing Director",
       bio: "Sarah's creative approach has helped countless clients achieve their marketing goals.",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://images.unsplash.com/photo-1494790108755-2616b612b47c?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       name: "Michael Chen",
       role: "Data Analytics Lead",
       bio: "Michael transforms complex data into actionable insights that drive business growth.",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
   ]
 
@@ -88,10 +88,10 @@ export default function AboutPage() {
               <div className="flex items-center justify-center lg:justify-end">
                 <div className="relative h-[400px] w-full overflow-hidden rounded-lg md:h-[450px] lg:h-[500px]">
                   <Image
-                    src="/placeholder.svg?height=500&width=500"
+                    src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                     width={500}
                     height={500}
-                    alt="About Our Company"
+                    alt="Modern office workspace"
                     className="object-cover"
                   />
                 </div>

@@ -115,14 +115,14 @@ Whether you're looking to increase brand awareness, generate leads, or boost onl
           "The digital marketing team transformed our online presence. Within six months, our organic traffic increased by 150% and leads by 75%.",
         author: "Jennifer Roberts",
         company: "TechSolutions Inc.",
-        image: "/placeholder.svg?height=100&width=100",
+        image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
       {
         quote:
           "Their strategic approach to our PPC campaigns reduced our cost per acquisition by 40% while increasing conversions. Highly recommended!",
         author: "Mark Thompson",
         company: "Global Retail Group",
-        image: "/placeholder.svg?height=100&width=100",
+        image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
     ],
     faqs: [
@@ -147,7 +147,7 @@ Whether you're looking to increase brand awareness, generate leads, or boost onl
           "We often collaborate with in-house teams, providing specialized expertise while integrating with your existing processes. We can either supplement your team's capabilities or provide training to enhance their skills.",
       },
     ],
-    image: "/placeholder.svg?height=600&width=800",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ctaText: "Ready to boost your online presence? Contact us today for a free digital marketing consultation.",
   },
   {
@@ -231,14 +231,14 @@ With years of experience across various industries, our consultants bring fresh 
           "Their strategic insights helped us identify new market opportunities we hadn't considered. Within a year of implementing their recommendations, we increased revenue by 35%.",
         author: "David Chen",
         company: "Innovate Manufacturing",
-        image: "/placeholder.svg?height=100&width=100",
+        image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
       {
         quote:
           "The process optimization work they did transformed our operations. We've reduced costs by 22% while improving customer satisfaction scores.",
         author: "Sarah Williams",
         company: "Premier Services Group",
-        image: "/placeholder.svg?height=100&width=100",
+        image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
     ],
     faqs: [
@@ -263,7 +263,7 @@ With years of experience across various industries, our consultants bring fresh 
           "Successful consulting requires collaboration. While we do the heavy lifting, we need input and feedback from your team to ensure our recommendations are practical and aligned with your business realities. The level of involvement can be tailored to your availability and preferences.",
       },
     ],
-    image: "/placeholder.svg?height=600&width=800",
+    image: "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ctaText:
       "Ready to transform your business? Contact us today for a free consultation with our expert business consultants.",
   },
@@ -349,14 +349,14 @@ In today's data-rich environment, the ability to extract value from information 
           "Their customer behavior analysis completely changed how we approach our marketing. We've seen a 45% increase in customer retention and a 30% boost in average order value.",
         author: "Rebecca Johnson",
         company: "Retail Excellence",
-        image: "/placeholder.svg?height=100&width=100",
+        image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
       {
         quote:
           "The predictive models they developed have transformed our inventory management. We've reduced stockouts by 65% while decreasing overall inventory costs by 18%.",
         author: "Michael Zhang",
         company: "Global Supply Co.",
-        image: "/placeholder.svg?height=100&width=100",
+        image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
     ],
     faqs: [
@@ -381,7 +381,7 @@ In today's data-rich environment, the ability to extract value from information 
           "Yes, we offer training and knowledge transfer to help your team develop analytics skills. We can also help you establish data governance frameworks and best practices to ensure sustainable analytics capabilities.",
       },
     ],
-    image: "/placeholder.svg?height=600&width=800",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ctaText: "Ready to unlock the power of your data? Contact us today for a free data analytics consultation.",
   },
   {
@@ -461,14 +461,14 @@ We believe that every business is unique, with its own set of challenges and opp
           "They took the time to truly understand our unique business model before proposing solutions. The custom workflow system they developed has increased our team's productivity by over 60%.",
         author: "Thomas Anderson",
         company: "Specialized Industries Ltd.",
-        image: "/placeholder.svg?height=100&width=100",
+        image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
       {
         quote:
           "When off-the-shelf solutions couldn't meet our complex requirements, their team created a custom platform that perfectly aligned with our processes. It's been a game-changer for our business.",
         author: "Lisa Rodriguez",
         company: "Innovative Solutions Group",
-        image: "/placeholder.svg?height=100&width=100",
+        image: "https://images.unsplash.com/photo-1494790108755-2616b612b47c?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
     ],
     faqs: [
@@ -493,7 +493,7 @@ We believe that every business is unique, with its own set of challenges and opp
           "Typically, you retain ownership of any custom software or unique methodologies developed specifically for your business. We clearly outline intellectual property rights in our agreements to ensure transparency and protect your interests.",
       },
     ],
-    image: "/placeholder.svg?height=600&width=800",
+    image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ctaText: "Have a unique business challenge? Contact us today to discuss how our custom solutions can help.",
   },
 ]

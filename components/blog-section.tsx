@@ -14,7 +14,7 @@ export function BlogSection() {
         "Discover the top strategies that successful businesses are using to scale and thrive in today's market.",
       date: "June 12, 2023",
       category: "Business Growth",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       slug: "strategies-to-grow-business-2023",
     },
     {
@@ -23,7 +23,7 @@ export function BlogSection() {
       excerpt: "Stay ahead of the curve with these emerging digital marketing trends that are shaping the industry.",
       date: "May 28, 2023",
       category: "Digital Marketing",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       slug: "future-of-digital-marketing-trends",
     },
     {
@@ -32,7 +32,7 @@ export function BlogSection() {
       excerpt: "Learn how leveraging data analytics can lead to more informed business decisions and better outcomes.",
       date: "April 15, 2023",
       category: "Data Analytics",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       slug: "data-analytics-transform-decision-making",
     },
   ]

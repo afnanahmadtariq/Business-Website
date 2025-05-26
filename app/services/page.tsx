@@ -116,7 +116,7 @@ export default function ServicesPage() {
                       <div className="absolute -inset-2 rounded-lg bg-gradient-to-r from-primary via-secondary to-accent opacity-30 blur-lg"></div>
                       <div className="relative">
                         <Image
-                          src="/placeholder.svg?height=400&width=400"
+                          src="https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                           width={400}
                           height={400}
                           alt={service.title}
