@@ -18,8 +18,8 @@ export function HeroSection() {
         </svg>
       </div>
       <div className="container relative px-4 py-16 md:px-6 md:py-24 lg:py-32">
-        <div className="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
-          <div className="flex flex-col justify-center space-y-6">
+        <div className="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px] items-center min-h-[60vh]">
+          <div className="flex flex-col justify-center space-y-6 relative z-20">
             <div className="space-y-4">
               <div className="inline-block rounded-full bg-secondary px-4 py-1 text-sm font-semibold text-white">
                 Innovative Solutions
@@ -32,18 +32,18 @@ export function HeroSection() {
                 unique requirements.
               </p>
             </div>
-            <div className="flex flex-col gap-3 min-[400px]:flex-row">
-              <Button asChild size="lg" className="bg-secondary hover:bg-secondary-600">
+            <div className="flex flex-col gap-4 sm:flex-row sm:gap-6">
+              <Button asChild size="lg" className="bg-secondary hover:bg-secondary-600 w-full sm:w-auto shadow-lg">
                 <Link href="/contact">
                   Get Started <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
               </Button>
-              <Button variant="outline" size="lg" asChild className="border-white text-white hover:bg-white/10">
+              <Button variant="outline" size="lg" asChild className="border-white text-white hover:bg-white/10 w-full sm:w-auto shadow-lg backdrop-blur-sm bg-white/10">
                 <Link href="/services">Explore Services</Link>
               </Button>
             </div>
           </div>
-          <div className="flex items-center justify-center">
+          <div className="flex items-center justify-center relative z-10">
             <div className="relative">
               <div className="absolute -inset-1 rounded-lg bg-gradient-to-r from-secondary via-accent to-highlight opacity-70 blur-lg"></div>
               <div className="relative rounded-lg">
